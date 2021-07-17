@@ -1,6 +1,8 @@
 // Time Complexity O(n^2)
 // Space Complexity O(1)
 
+// for educational purposes
+
 function selectionSort(array) {
   for (let i = 0; i < array.length; i++) {
     // set current index as minimum

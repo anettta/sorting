@@ -1,6 +1,8 @@
 // Time Complexity O(n^2)
 // Space Complexity O(1)
 
+// for educational purposes
+
 function bubbleSort(array) {
   for (let i = 0; i < array.length; i++) {
     for (let j = 0; j < array.length; j++) {
